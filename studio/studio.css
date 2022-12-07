@@ -1,0 +1,21 @@
+ul{
+    list-style:armenian;
+    border-bottom:solid red;
+    border-top:dotted blue;
+    
+}
+.li2{
+    color:chartreuse
+
+}
+body{
+    background-color: rgb(31, 219, 219);
+    
+   
+}
+div{
+   display:flex;
+    flex-direction:end;
+    justify-content:center;
+    justify-content:space-around
+}

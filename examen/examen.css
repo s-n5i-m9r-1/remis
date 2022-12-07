@@ -1,0 +1,13 @@
+ul{
+    list-style: square;
+    border-style: dashed;
+    border-color: red;
+}
+p{
+    border-style: double;
+    border-color: blue;
+}
+body{
+    background-color: coral;
+    color: antiquewhite;
+}
