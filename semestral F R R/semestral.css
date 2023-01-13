@@ -1,0 +1,31 @@
+ul{
+    list-style:decimal;
+    display:flex;
+    flex-direction:column-reverse;
+    
+    
+}
+.li2{
+    color:chartreuse
+
+}
+body{
+    background-color: rgb(90, 180, 240);
+    color: brown;
+    
+   
+}
+div{
+   display:flex;
+    flex-direction:end;
+    justify-content:center;
+    justify-content:space-around
+}
+.bordess{
+    border-color:orange;
+    border-style: double;
+} 
+.borde2{
+    border-color:chocolate;
+    border-style: dotted;
+}
